@@ -1,0 +1,13 @@
+org_name: nullstone
+name: aws-subdomain-manual
+friendly_name: Manual AWS Subdomain
+description: Creates an AWS Subdomain manually connected to a domain
+category: subdomain
+subcategory: ""
+provider_types:
+    - aws
+platform: route53
+subplatform: ""
+type: ""
+appCategories: []
+is_public: true
